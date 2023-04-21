@@ -1,0 +1,13 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 28D0-C244
+
+ Directory of C:\Users\jmons\OneDrive\Desktop\Software Project
+
+04/21/2023  01:12 PM    <DIR>          .
+04/21/2023  01:11 PM    <DIR>          ..
+04/21/2023  01:12 PM                 0 branchtest1.txt
+04/21/2023  07:49 AM                22 index.html
+04/21/2023  07:49 AM                12 test1.txt
+04/21/2023  08:54 AM               473 test2.txt
+               4 File(s)            507 bytes
+               2 Dir(s)  18,344,730,624 bytes free
